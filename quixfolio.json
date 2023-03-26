@@ -4,13 +4,8 @@
     "description": "This is a Hashiru template",
     "image": "image.png",
     "schema": {
-        "cloneName": {
-            "type": "string",
-            "page": "index.html",
-            "default": "hashiru-template"
-        },
         "name": {
-            "type": "string",
+            "type": "textarea",
             "page": "index.html",
             "default": ""
         },
